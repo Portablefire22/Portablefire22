@@ -1,4 +1,4 @@
-Programmer with imposter syndrome, I never have ideas for projects or I will have an idea and never complete them.
+Programmer with imposter syndrome, I either never have ideas for projects or I will have an idea and never complete them.
 Going into Electronic engineering to hopefully put my programming skills to use while not relying on them for 
 everything.
 <!---
